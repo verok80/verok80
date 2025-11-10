@@ -13,7 +13,7 @@
 </h1
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA1Z2Q3ZWpseG9zMDkxY3V2OWY5NjV1OGtuczY5Ymp0eW94ZXE2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4XXo8A7CIW1lZGgdhm/giphy.gif" width="700" height="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5eGhjajBrNDE0ZTA3eW42ZDB3d3ozaDZqdG5uOTExZ2huNnc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ovOsS7d0bHhSi06h2C/giphy.gif" width="700" height="400"/>
 </div>
 
 ### :woman_technologist: About Me :

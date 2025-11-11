@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVla2tpYXNmd2N1M3RuaDR2ZHViZjkwd2RuM2MzNDR3ZndtbGZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="160"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHVla2tpYXNmd2N1M3RuaDR2ZHViZjkwd2RuM2MzNDR3ZndtbGZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,12 +9,9 @@
 </div>
 <h1 id="badges" align="center">
   Greetings, I'm Vera Kolotyuk
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1
 
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTg5eGhjajBrNDE0ZTA3eW42ZDB3d3ozaDZqdG5uOTExZ2huNnc5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ovOsS7d0bHhSi06h2C/giphy.gif" width="700" height="400"/>
-</div>
+
 
 ### :woman_technologist: About Me :
 

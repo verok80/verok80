@@ -17,7 +17,7 @@
 
 I am a Frontend Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWFibjJ5MHpuZGQ2Y2xhejQ5dmJ3MWRhM3diNzhlaTlubzJ5NDcyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q2T7BXRiDFPJcPoA7Z/giphy.gif" width="30"> from USA.
 - :telescope: I’m passionate Frontend Developer, currently a student, mastering my skills in Flutter
- - :seedling: My goal is to become Fullstack Developer
+ - :seedling: My goal is to become a Fullstack Developer
  - :art: Creating intuitive user interfaces with modern frameworks
   - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkdin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vera-kolotyuk-59501830a/)
    ---
